@@ -9,9 +9,6 @@
 						No Of SOS Stages for each channel is 8.
 						Filter coefficients for each of the channel can be programmed independantly
 	
-	This program is submitted as part of the technical collateral for DSP Engineering position with Cadence Design Systems 
-	Ref : Technical Discussion with Mr. Sachin Ghanekar & Shreekanta Datta MN, 20Jul2020.  
-
 */	
 
 
